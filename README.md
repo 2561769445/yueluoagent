@@ -15,7 +15,10 @@
 
 ## 📦 下载
 
-直接下载仓库中的 `YueluoAgent-v1.0.zip`(约 35MB,解压即用)。
+> **最新版本:v2.0** —— `YueluoAgent-v2.0.zip`(约 35MB,解压即用)
+> 历史版本:v1.0(`YueluoAgent-v1.0.zip`)同在仓库,可按需下载
+
+直接下载仓库中的 `YueluoAgent-v2.0.zip`(约 35MB,解压即用)。
 
 ## 🚀 启动
 
@@ -28,7 +31,7 @@
 **手动启动(Windows / Linux 通用):**
 
 ```bash
-unzip YueluoAgent-v1.0.zip
+unzip YueluoAgent-v2.0.zip
 cd yueluo-agent
 npm install        # 首次需要,仅 playwright-core 一个依赖;包内已带 node_modules 时可跳过
 node yueluo.ts     # Node 24+ 原生运行 .ts
